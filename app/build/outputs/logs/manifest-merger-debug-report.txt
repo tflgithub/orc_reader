@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:10:5-34:19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Administrator\.android\build-cache\8cab23fba1e17f273b5d38f2467a0ab8fbb2fd99\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Administrator\.android\build-cache\2930018288619c745147cbbd1215df04ff2a70b0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.android\build-cache\9af8b7aeb7083d6f30bb4da74d5da360f32c449e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Administrator\.android\build-cache\5b43c964173e7e6a63fed8390cfc3ab751f286dd\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.android\build-cache\b5c58167876d3373516882c82e74563c62abed36\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.android\build-cache\f49a563a76878eaceffc5ba7d1121c128a81089a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.android\build-cache\df4c1803db1b5fc484b130b3839269f6359b7d82\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\e2e7667a87b8cdb198d2f673f4a5400fab468a0f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\7ca979bb3f30b216501c4926145fb13429db080b\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.android\build-cache\6ea7c2bab7dadeebfb783d69110a5f7516e0e4b0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.android\build-cache\866de65b02775a8f0ccaadb566b23f4797b26f22\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.android\build-cache\fe7ee11c619f0a648e82119484cfbdde3ec85a7d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.android\build-cache\6b03d827150d63b1314d9c561b96e01974f99ee3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.android\build-cache\4dd98581ddd1ea32130cf65bdb0b8f5ce1eda0c0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.android\build-cache\8b78a45f71d2f3276235f4f7974a08945eed0969\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\6d7f2365e4074f54ad3b550afa6df1e947aa6b2d\output\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:15:9-35
+	android:hardwareAccelerated
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:16:9-59
+meta-data#com.google.android.gms.version
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:17:9-19:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.android\build-cache\b5c58167876d3373516882c82e74563c62abed36\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:18:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:20:9-22:35
+	android:value
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:22:13-32
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:21:13-70
+activity#com.fodel.ocrreader.MainActivity
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:24:9-31:20
+	android:label
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:26:13-55
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:25:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.fodel.ocrreader.OcrCaptureActivity
+ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:32:9-33:78
+	android:name
+		ADDED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml:33:13-66
+uses-sdk
+INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Administrator\.android\build-cache\8cab23fba1e17f273b5d38f2467a0ab8fbb2fd99\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Administrator\.android\build-cache\2930018288619c745147cbbd1215df04ff2a70b0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.android\build-cache\9af8b7aeb7083d6f30bb4da74d5da360f32c449e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Administrator\.android\build-cache\5b43c964173e7e6a63fed8390cfc3ab751f286dd\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.android\build-cache\b5c58167876d3373516882c82e74563c62abed36\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.android\build-cache\f49a563a76878eaceffc5ba7d1121c128a81089a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.android\build-cache\df4c1803db1b5fc484b130b3839269f6359b7d82\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\e2e7667a87b8cdb198d2f673f4a5400fab468a0f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\7ca979bb3f30b216501c4926145fb13429db080b\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.android\build-cache\6ea7c2bab7dadeebfb783d69110a5f7516e0e4b0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.android\build-cache\866de65b02775a8f0ccaadb566b23f4797b26f22\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.android\build-cache\fe7ee11c619f0a648e82119484cfbdde3ec85a7d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.android\build-cache\6b03d827150d63b1314d9c561b96e01974f99ee3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.android\build-cache\aed23b5e0674d4f65491e83deee4a55122b2daab\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.android\build-cache\4dd98581ddd1ea32130cf65bdb0b8f5ce1eda0c0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.android\build-cache\8b78a45f71d2f3276235f4f7974a08945eed0969\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\6d7f2365e4074f54ad3b550afa6df1e947aa6b2d\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.android\build-cache\df4c1803db1b5fc484b130b3839269f6359b7d82\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\ocr-reader-complete\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.android\build-cache\9af8b7aeb7083d6f30bb4da74d5da360f32c449e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.android\build-cache\9af8b7aeb7083d6f30bb4da74d5da360f32c449e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.android\build-cache\9af8b7aeb7083d6f30bb4da74d5da360f32c449e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.android\build-cache\9af8b7aeb7083d6f30bb4da74d5da360f32c449e\output\AndroidManifest.xml:19:19-85
